@@ -2,7 +2,7 @@
 This is a repo for describing a demo.
 
 ## Video
-
+[![Demo Video](thumb.jpg)](https://youtu.be/HSJwSDrIdro)
 
 ## More technical details:
 
