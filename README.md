@@ -1,2 +1,5 @@
 # demo_telegram_visualization
-this is a repo for describing a demo
+This is a repo for describing a demo.
+
+## Video:
+please follow this link or download the video to watch.
