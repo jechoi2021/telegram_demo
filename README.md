@@ -1,5 +1,10 @@
 # demo_telegram_visualization
 This is a repo for describing a demo.
+![Overview](Capture_content(2).png)
+
+![InfoCard](Capture_demo(2).png)
+
+
 
 ## Video
 [![Demo Video](thumb.jpg)](https://youtu.be/HSJwSDrIdro)
