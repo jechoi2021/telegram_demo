@@ -1,5 +1,6 @@
-# demo_telegram_visualization
-This is a repo for describing a demo.
+# Telegram Visualization Demonstrator
+
+
 ![Overview](Capture_demo.PNG)
 
 ![InfoCard](Capture_content.PNG)
@@ -16,6 +17,7 @@ See our paper:
 1. [Transparency in Messengers](https://doi.org/10.1145/3603163.3609034)
 2. [Scientific Appearance in Telegram](http://dx.doi.org/10.1609/icwsm.v18i1.31451)
 3. [Creating Visual Persona Profiles in Telegram using NLP](http://dx.doi.org/10.2352/ei.2024.36.1.vda-359)
+4. To be published as Demo-Paper at ICWSM 2026
 
 Papers in German:
 1. Desinformation in Messenger-Diensten: Aktuelle Herausforderungen &amp; Handlungsempfehlungen für rechtliche und gesellschaftliche Maßnahmen: [link](https://doi.org/10.17185/duepublico/82406)
