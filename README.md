@@ -1,8 +1,8 @@
 # demo_telegram_visualization
 This is a repo for describing a demo.
-![Overview](Capture_content(2).png)
+![Overview](Capture_content.png)
 
-![InfoCard](Capture_demo(2).png)
+![InfoCard](Capture_demo.png)
 
 
 
