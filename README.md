@@ -1,14 +1,21 @@
 # Telegram Visualization Demonstrator
 
 
-![Overview](Capture_demo.PNG)
 
-![InfoCard](Capture_content.PNG)
+<p align="center">
+  <img src="Capture_demo.PNG" alt="Overview" width="600">
+</p>
 
-
+<p align="center">
+  <img src="Capture_content.PNG" alt="InfoCard" width="600">
+</p>
 
 ## Video
-[![Demo Video](thumb.jpg)](https://youtu.be/HSJwSDrIdro)
+<p align="center">
+  <a href="https://youtu.be/HSJwSDrIdro">
+    <img src="thumb.jpg" alt="Demo Video" width="600">
+  </a>
+</p>
 
 ## More technical details:
 
